@@ -23,3 +23,5 @@ http://rdp_sound_board.surge.sh/
 http://rdp_dad_jokes.surge.sh/
 
 http://rdp_event_keycodes.surge.sh/
+
+http://rdp_faq_collapse.surge.sh/
