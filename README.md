@@ -15,3 +15,7 @@ https://rdp_blurry_loading.surge.sh/
 https://rdp_scroll_animation.surge.sh/
 
 https://rdp_split_landing_page.surge.sh/
+
+https://rdp_form_input_wave.surge.sh/
+
+http://rdp_sound_board.surge.sh/
