@@ -19,3 +19,7 @@ https://rdp_split_landing_page.surge.sh/
 https://rdp_form_input_wave.surge.sh/
 
 http://rdp_sound_board.surge.sh/
+
+http://rdp_dad_jokes.surge.sh/
+
+http://rdp_event_keycodes.surge.sh/
