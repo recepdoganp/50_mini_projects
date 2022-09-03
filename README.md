@@ -31,3 +31,5 @@ https://rdp_random_choice_picker.surge.sh/
 https://rdp_animated_navigation.surge.sh/
 
 https://rdp_incrementing_counter.surge.sh/
+
+https://rdp_drink_water.surge.sh/
