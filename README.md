@@ -27,3 +27,5 @@ http://rdp_event_keycodes.surge.sh/
 http://rdp_faq_collapse.surge.sh/
 
 https://rdp_random_choice_picker.surge.sh/
+
+https://rdp_animated_navigation.surge.sh/
