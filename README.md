@@ -25,3 +25,5 @@ http://rdp_dad_jokes.surge.sh/
 http://rdp_event_keycodes.surge.sh/
 
 http://rdp_faq_collapse.surge.sh/
+
+https://rdp_random_choice_picker.surge.sh/
