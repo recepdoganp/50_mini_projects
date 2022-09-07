@@ -43,3 +43,9 @@ https://rdp_theme_clock.surge.sh/
 https://rdp_button_ripple_effect.surge.sh/
 
 https://rdp_drawing_app.surge.sh/
+
+https://rdp_kinetic_loader.surge.sh/
+
+https://rdp_content_placeholder.surge.sh/
+
+https://rdp_sticky_navigation.surge.sh/
