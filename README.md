@@ -49,3 +49,5 @@ https://rdp_kinetic_loader.surge.sh/
 https://rdp_content_placeholder.surge.sh/
 
 https://rdp_sticky_navigation.surge.sh/
+
+https://rdp_double_vertical_slider.surge.sh/
