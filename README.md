@@ -61,3 +61,5 @@ http://rdp_double_click_heart.surge.sh/
 http://rdp_auto_text_effect.surge.sh/
 
 https://rdp_password_generator.surge.sh/
+
+https://rdp_notes_app.surge.sh/
