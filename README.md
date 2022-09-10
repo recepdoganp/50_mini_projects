@@ -69,3 +69,5 @@ https://rdp_animated_countdown.surge.sh/
 https://rdp_image_carousel.surge.sh/
 
 https://rdp_hoverboard.surge.sh/
+
+https://rdp_pokedex.surge.sh/
