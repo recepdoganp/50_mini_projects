@@ -73,3 +73,5 @@ https://rdp_hoverboard.surge.sh/
 https://rdp_pokedex.surge.sh/
 
 https://rdp_mobile_tab_navigation.surge.sh/
+
+https://rdp_password_strength_background.surge.sh/
