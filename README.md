@@ -1,10 +1,11 @@
-# 50 Mini Projects Using HTML/CSS and JavaScript
+# 50 Mini Projects Using HTML, CSS and JavaScript
 
 This repository consists of 50 mini projects created via HTML, CSS and JavaScript. Each project's source code and corresponding deployment link is represented below.
 
-| \#  | Project                                                                                      | Live Demo                                     |
-| --- | -------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards) | [Demo](https://rdp_expanding_cards.surge.sh/) |
+| \#  | Project                                                                                      | Live Demo                                     | Description                                                |
+| --- | -------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------- |
+| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards) | [Demo](https://rdp_expanding_cards.surge.sh/) | Image Cards with click to extend animation                 |
+| 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box) | [Demo](http://rdp_testimonial_box.surge.sh/)  | A changing testimonial box animation using third party api |
 
 http://rdp_progress_steps.surge.sh/
 
