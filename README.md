@@ -83,3 +83,5 @@ https://rdp_verify_account_ui.surge.sh/
 https://rdp_live_user_filter.surge.sh/
 
 https://rdp_feedback_ui_design.surge.sh/
+
+http://rdp_custom_range_slider.surge.sh/
