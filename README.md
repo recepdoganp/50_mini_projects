@@ -2,11 +2,12 @@
 
 This repository consists of 50 mini projects created via HTML, CSS and JavaScript. Each project's source code and corresponding deployment link is represented below.
 
-| \#  | Project                                                                                                    | Live Demo                                            | Description                                                   |
-| --- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
-| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards)               | [Demo](https://rdp_expanding_cards.surge.sh/)        | Image Cards with click to extend animation                    |
-| 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box)               | [Demo](http://rdp_testimonial_box.surge.sh/)         | A changing testimonial box animation using third party api    |
-| 3   | [Random Image Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/random_image_generator) | [Demo](https://rdp_random_image_generator.surge.sh/) | A webpage where random images from unsplash.com are showcased |
+| \#  | Project                                                                                                    | Live Demo                                            | Description                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards)               | [Demo](https://rdp_expanding_cards.surge.sh/)        | Image Cards with click to extend animation                                  |
+| 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box)               | [Demo](http://rdp_testimonial_box.surge.sh/)         | A changing testimonial box animation using third party api                  |
+| 3   | [Random Image Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/random_image_generator) | [Demo](https://rdp_random_image_generator.surge.sh/) | A webpage where random images from unsplash.com are generated and showcased |
+| 4   | [To-Do List](https://github.com/recepdoganp/50_mini_projects/tree/main/todo_list)                          | [Demo](http://rdp_todo_list.surge.sh/)               | To Do list web app where also local storage api has been utilized.          |
 
 http://rdp_progress_steps.surge.sh/
 
