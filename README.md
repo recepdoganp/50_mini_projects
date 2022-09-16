@@ -8,6 +8,7 @@ This repository consists of 50 mini projects created via HTML, CSS and JavaScrip
 | 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box)               | [Demo](http://rdp_testimonial_box.surge.sh/)         | A changing testimonial box animation using third party api                  |
 | 3   | [Random Image Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/random_image_generator) | [Demo](https://rdp_random_image_generator.surge.sh/) | A webpage where random images from unsplash.com are generated and showcased |
 | 4   | [To-Do List](https://github.com/recepdoganp/50_mini_projects/tree/main/todo_list)                          | [Demo](http://rdp_todo_list.surge.sh/)               | To Do list web app where also local storage api has been utilized.          |
+| 5   | [Celebrity Catch Game](https://github.com/recepdoganp/50_mini_projects/tree/main/celebrity_catch_game)     | [Demo](https://rdp_celebrity_catch_game.surge.sh/)   | A silly web game where a celebirty is expected to be caught                 |
 
 http://rdp_progress_steps.surge.sh/
 

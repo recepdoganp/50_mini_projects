@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width= , initial-scale=1.0" />
+    <link rel=" stylesheet" href="style.css" />
+    <title>Catch the Celebrity</title>
+  </head>
+  <body>
+    <div class="screen">
+      <div class="description">
+        <h1>Welcome To Catch Celebrity</h1>
+        <h2>Choose your celebrity and click on it as much as possible</h2>
+      </div>
+      <button class="btn" id="start-btn">Play Game</button>
+    </div>
+    <div class="screen">
+      <h1>Who is your "favourite" celebrity</h1>
+      <ul class="celebrity-list">
+        <li>
+          <button class="choose-celebrity-btn">
+            <p>JLO</p>
+            <img src="./jlo.png" alt="jlo" />
+          </button>
+        </li>
+        <li>
+          <button class="choose-celebrity-btn">
+            <p>Beyonce</p>
+            <img src="./beyonce.png" alt="beyonce" />
+          </button>
+        </li>
+        <li>
+          <button class="choose-celebrity-btn">
+            <p>Rihanna</p>
+            <img src="./rihanna.png" alt="rihanna" />
+          </button>
+        </li>
+        <li>
+          <button class="choose-celebrity-btn">
+            <p>Britney</p>
+            <img src="./britney.png" alt="britney" />
+          </button>
+        </li>
+      </ul>
+    </div>
+    <div class="screen game-container">
+      <h3 id="time">Time: 00:00</h3>
+      <h3 id="score">Score: 0</h3>
+      <h5 id="message">
+        Are you annoyed yet? <br />
+        You are playing an impossible game!!
+      </h5>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

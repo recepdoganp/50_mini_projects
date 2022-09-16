@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f4a261;
+  color: #fff;
+  font-family: "Press Start 2P", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+a {
+  color: #fff;
+}
+
+h1 {
+  line-height: 1.4;
+}
+
+.btn {
+  border: 0;
+  background-color: #fff;
+  color: #f4a261;
+  padding: 15px 20px;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  transition: margin 0.5s ease-out;
+}
+
+.screen.up {
+  margin-top: -100vh;
+}
+
+.celebrity-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.celebrity-list li {
+  margin: 10px;
+}
+
+.choose-celebrity-btn {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  font-family: inherit;
+  width: 150px;
+  height: 150px;
+}
+
+.choose-celebrity-btn:hover {
+  background: #fff;
+  color: #f4a261;
+}
+
+.choose-celebrity-btn:active {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.choose-celebrity-btn img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.game-container {
+  position: relative;
+}
+
+#time,
+#score {
+  position: absolute;
+  top: 20px;
+  z-index: 1000;
+}
+
+#time {
+  left: 20px;
+}
+
+#score {
+  right: 20px;
+}
+
+#message {
+  line-height: 1.7;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 20px;
+  z-index: 100;
+  text-align: center;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -150%);
+  transition: transform 0.4s ease-in;
+}
+#message.visible {
+  opacity: 1;
+  transform: translate(-50%, 150%);
+}
+
+.celebrity {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  /* top: 200px;
+  left: 300px; */
+  transform: translate(-50%, -50%) scale(1);
+  cursor: pointer;
+  transition: transform 0.3s ease-out;
+}
+
+.celebrity.caught {
+  transform: translate(-50%, -50%) scale(0);
+}
+
+.celebrity img {
+  width: 100px;
+  height: 100px;
+}
