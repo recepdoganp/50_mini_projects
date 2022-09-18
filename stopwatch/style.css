@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #2a9d8f;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  color: #fff;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 200;
+  text-align: center;
+  padding: 0 64px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.stopwatch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-top: 25px;
+}
+
+.gold {
+  font-weight: 900;
+  color: #f2c94c;
+  text-shadow: 0 0 0px #fff, 0 0 50px #f2c94c;
+  font-size: 48px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  border-radius: 100%;
+  font-family: sans-serif;
+  font-size: 3rem;
+}
+
+.controls {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 280px;
+}
+
+.btn {
+  background: transparent;
+  color: #fff;
+  margin: 20px 30px;
+  border: none;
+  font-size: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.btn:hover {
+  color: #f2c94c;
+  text-shadow: 0 0 0px #fff, 0 0 50px #f2c94c;
+}
+
+.btn:active {
+  transform: scale(0.9);
+}
+
+#play {
+  display: block;
+}
+
+#pause {
+  display: none;
+}
