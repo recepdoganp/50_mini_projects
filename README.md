@@ -1,5 +1,7 @@
 # Mini Projects Using HTML, CSS and JavaScript
 
+![Logo](https://zinzinzibidi.com/Areas/web_tasarim/Content/img/css3-html5-javascript-logo.png)
+
 This repository consists of various mini projects created via HTML, CSS and JavaScript also benefiting different libraries and APIs. I will add new projects occasinally to the repository. Each project's source code and corresponding deployment link is represented below for reference
 
 | \#  | Project                                                                                                                | Live Demo                                                  | Description                                                                                                                                                                 |
