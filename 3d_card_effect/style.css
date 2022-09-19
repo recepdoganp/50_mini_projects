@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+:root {
+  --primary-color: #90e0ef;
+  --secondary-color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+}
+
+.description {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-radius: 30px;
+  background: rgba(237, 88, 45, 0.75);
+  color: #fff;
+  font-weight: 400;
+  padding: 50px;
+  z-index: 100;
+  width: 80%;
+  transition: opacity 1s ease;
+}
+
+.description > * {
+  font-weight: 400;
+}
+
+.container {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 1000px;
+}
+
+.card {
+  transform-style: preserve-3d;
+  min-height: 80vh;
+  width: 35rem;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding: 0 50px;
+}
+
+.card > * {
+  transform-style: preserve-3d;
+}
+
+.sneaker {
+  min-height: 35vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sneaker img {
+  width: 300px;
+  z-index: 2;
+  transition: all 0.75s ease-out;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(
+    to right,
+    rgba(237, 88, 45, 0.75),
+    rgba(185, 176, 179, 0.75)
+  );
+  position: absolute;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.info h1 {
+  font-size: 50px;
+  font-weight: 400;
+  transition: all 0.75s ease-out;
+}
+
+.info h3 {
+  font-size: 24px;
+  padding: 30px 0;
+  color: #585858;
+  font-weight: lighter;
+  text-transform: uppercase;
+  transition: all 0.75s ease-out;
+}
+
+.sizes {
+  display: flex;
+  justify-content: space-between;
+  transition: all 0.75s ease-out;
+}
+
+.sizes button {
+  background: none;
+  padding: 10px 30px;
+  border: none;
+  box-shadow: 0 5px 10px rgb(0, 0, 0, 0.2);
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #585858;
+}
+
+button.active {
+  background-color: #585858;
+  color: #fff;
+}
+
+.purchase {
+  margin-top: 80px;
+  transform-style: preserve-3d;
+}
+
+.purchase button {
+  width: 100%;
+  padding: 20px 0;
+  background-color: rgb(237, 88, 45);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: bolder;
+  transition: transform 0.75s ease-out;
+}

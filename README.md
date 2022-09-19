@@ -1,93 +1,58 @@
-# 50 Mini Projects Using HTML, CSS and JavaScript
+# XXXX Mini Projects Using HTML, CSS and JavaScript
 
-This repository consists of 50 mini projects created via HTML, CSS and JavaScript. Each project's source code and corresponding deployment link is represented below.
+This repository consists of various mini projects created via HTML, CSS and JavaScript also benefiting different libraries and APIs. I will add new projects occasinally to the repository. Each project's source code and corresponding deployment link is represented below for reference
 
-| \#  | Project                                                                                                           | Live Demo                                            | Description                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards)                      | [Demo](https://rdp_expanding_cards.surge.sh/)        | Image Cards with click to extend animation                                  |
-| 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box)                      | [Demo](http://rdp_testimonial_box.surge.sh/)         | A changing testimonial box animation using third party api                  |
-| 3   | [Random Image Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/random_image_generator)        | [Demo](https://rdp_random_image_generator.surge.sh/) | A webpage where random images from unsplash.com are generated and showcased |
-| 4   | [To-Do List](https://github.com/recepdoganp/50_mini_projects/tree/main/todo_list)                                 | [Demo](http://rdp_todo_list.surge.sh/)               | To Do list web app where also local storage api has been utilized           |
-| 5   | [Celebrity Catch Game](https://github.com/recepdoganp/50_mini_projects/tree/main/celebrity_catch_game)            | [Demo](https://rdp_celebrity_catch_game.surge.sh/)   | A silly web game where a celebirty is expected to be caught                 |
-| 6   | [Progress Steps](https://github.com/recepdoganp/50_mini_projects/tree/main/progress_steps)                        | [Demo](http://rdp_progress_steps.surge.sh/)          | An animated progress bar for previous and next cases                        |
-| 7   | [Rotating Navigation Animation](https://github.com/recepdoganp/50_mini_projects/tree/main/rotating_nav_animation) | [Demo](https://rdp_rotating_nav_animation.surge.sh/) | A navigation menu that rotates along with the page when clicked             |
-| 8   | [Hidden Search Widget](https://github.com/recepdoganp/50_mini_projects/tree/main/hidden_search_widget)            | [Demo](https://rdp_hidden_search_widget.surge.sh/)   | A search widget that toggles hidden & visible by clicking                   |
-| 9   | [Blurry Loading Image](https://github.com/recepdoganp/50_mini_projects/tree/main/blurry_loading)                  | [Demo](https://rdp_blurry_loading.surge.sh/)         | A random image that is gradually revealed when button is clicked            |
-| 10  | [Scroll Animation](https://github.com/recepdoganp/50_mini_projects/tree/main/scroll_animation)                    | [Demo](https://rdp_scroll_animation.surge.sh/)       | An animating page with circles by scrolling up and down                     |
-| 11  | [StopWatch](https://github.com/recepdoganp/50_mini_projects/tree/main/stopwatch)                                  | [Demo](http://rdp_stopwatch.surge.sh/)               | A stopwatch web app                                                         |
+| \#  | Project                                                                                                                | Live Demo                                                  | Description                                                                                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Expanding Cards](https://github.com/recepdoganp/50_mini_projects/tree/main/expanding_cards)                           | [Demo](https://rdp_expanding_cards.surge.sh/)              | Image Cards with click to extend animation                                                                                                                                  |
+| 2   | [Testimonial Box](https://github.com/recepdoganp/50_mini_projects/tree/main/testimonial_box)                           | [Demo](http://rdp_testimonial_box.surge.sh/)               | A changing testimonial box animation using third party api                                                                                                                  |
+| 3   | [Random Image Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/random_image_generator)             | [Demo](https://rdp_random_image_generator.surge.sh/)       | A webpage where random images from unsplash.com are generated and showcased                                                                                                 |
+| 4   | [To-Do List](https://github.com/recepdoganp/50_mini_projects/tree/main/todo_list)                                      | [Demo](http://rdp_todo_list.surge.sh/)                     | To Do list web app where also local storage api has been utilized                                                                                                           |
+| 5   | [Celebrity Catch Game](https://github.com/recepdoganp/50_mini_projects/tree/main/celebrity_catch_game)                 | [Demo](https://rdp_celebrity_catch_game.surge.sh/)         | A silly web game where a celebirty is expected to be caught                                                                                                                 |
+| 6   | [Progress Steps](https://github.com/recepdoganp/50_mini_projects/tree/main/progress_steps)                             | [Demo](http://rdp_progress_steps.surge.sh/)                | An animated progress bar for previous and next cases                                                                                                                        |
+| 7   | [Rotating Navigation Animation](https://github.com/recepdoganp/50_mini_projects/tree/main/rotating_nav_animation)      | [Demo](https://rdp_rotating_nav_animation.surge.sh/)       | A navigation menu that rotates along with the page when clicked                                                                                                             |
+| 8   | [Hidden Search Widget](https://github.com/recepdoganp/50_mini_projects/tree/main/hidden_search_widget)                 | [Demo](https://rdp_hidden_search_widget.surge.sh/)         | A search widget that toggles hidden & visible by clicking                                                                                                                   |
+| 9   | [Blurry Loading Image](https://github.com/recepdoganp/50_mini_projects/tree/main/blurry_loading)                       | [Demo](https://rdp_blurry_loading.surge.sh/)               | A random image that is gradually revealed when button is clicked                                                                                                            |
+| 10  | [Scroll Animation](https://github.com/recepdoganp/50_mini_projects/tree/main/scroll_animation)                         | [Demo](https://rdp_scroll_animation.surge.sh/)             | An animating page with circles by scrolling up and down                                                                                                                     |
+| 11  | [StopWatch](https://github.com/recepdoganp/50_mini_projects/tree/main/stopwatch)                                       | [Demo](http://rdp_stopwatch.surge.sh/)                     | A stopwatch web app                                                                                                                                                         |
+| 12  | [3D Card Effect](https://github.com/recepdoganp/50_mini_projects/tree/main/3d_card_effect)                             | [Demo](https://rdp_3d_card_effect.surge.sh/)               | 3D Product Card Effect that work with mouse movements                                                                                                                       |
+| 13  | [Split Landing Page](https://github.com/recepdoganp/50_mini_projects/tree/main/split_landing_page)                     | [Demo](https://rdp_split_landing_page.surge.sh/)           | Web page with split sides where each side extends as mouse enter                                                                                                            |
+| 14  | [Form Input Wave](https://github.com/recepdoganp/50_mini_projects/tree/main/form_input_wave)                           | [Demo](https://rdp_form_input_wave.surge.sh/)              | Form page with animating input fields                                                                                                                                       |
+| 15  | [Sound Board](https://github.com/recepdoganp/50_mini_projects/tree/main/sound_board)                                   | [Demo](http://rdp_sound_board.surge.sh/)                   | Sound board web app with buttons to create sounds                                                                                                                           |
+| 16  | [Dad Jokes](https://github.com/recepdoganp/50_mini_projects/tree/main/dad_jokes)                                       | [Demo](http://rdp_dad_jokes.surge.sh/)                     | Web app to create random silly dad jokes using a third party api                                                                                                            |
+| 17  | [Event Keycodes](https://github.com/recepdoganp/50_mini_projects/tree/main/event_keycodes)                             | [Demo](http://rdp_event_keycodes.surge.sh/)                | Web app to show keycodes for any key hit at the keyboard                                                                                                                    |
+| 18  | [FAQ Collapse](https://github.com/recepdoganp/50_mini_projects/tree/main/faq_collapse)                                 | [Demo](http://rdp_faq_collapse.surge.sh/)                  | A collapsing FAQs menu                                                                                                                                                      |
+| 19  | [Random Choice Picker](https://github.com/recepdoganp/50_mini_projects/tree/main/random_choice_picker)                 | [Demo](https://rdp_random_choice_picker.surge.sh/)         | Web App in order to help users make their choices randomly                                                                                                                  |
+| 20  | [Animated Navigation](https://github.com/recepdoganp/50_mini_projects/tree/main/animated_navigation)                   | [Demo](https://rdp_animated_navigation.surge.sh/)          | Navigation menu with an animation to reveal and hide the contents within                                                                                                    |
+| 21  | [Incrementing Counter](https://github.com/recepdoganp/50_mini_projects/tree/main/incrementing_counter)                 | [Demo](https://rdp_incrementing_counter.surge.sh/)         | An incrementing social media followers visualisation                                                                                                                        |
+| 22  | [Drink Water](https://github.com/recepdoganp/50_mini_projects/tree/main/drink_water)                                   | [Demo](https://rdp_drink_water.surge.sh/)                  | A web app to mimic water drinking by a specific goal and a number of glasses                                                                                                |
+| 23  | [Movie App](https://github.com/recepdoganp/50_mini_projects/tree/main/movie_app)                                       | [Demo](https://rdp_movie_app.surge.sh/)                    | Movie catalogue with an option to search by title using third party api                                                                                                     |
+| 24  | [Background Slider](https://github.com/recepdoganp/50_mini_projects/tree/main/background_slider)                       | [Demo](https://rdp_background_slider.surge.sh/)            | Image slider with animated change effect                                                                                                                                    |
+| 25  | [Theme Clock](https://github.com/recepdoganp/50_mini_projects/tree/main/theme_clock)                                   | [Demo](https://rdp_theme_clock.surge.sh/)                  | A theme clock with dark and light modes change option                                                                                                                       |
+| 26  | [Button Ripple Effect](https://github.com/recepdoganp/50_mini_projects/tree/main/button_ripple_effect)                 | [Demo](https://rdp_button_ripple_effect.surge.sh/)         | A rippling button effect when clicked                                                                                                                                       |
+| 26  | [Drawing App](https://github.com/recepdoganp/50_mini_projects/tree/main/drawing_app)                                   | [Demo](https://rdp_drawing_app.surge.sh/)                  | An open canvas drawing app with options to change the size of the brush and the color                                                                                       |
+| 27  | [Kinetic Loader](https://github.com/recepdoganp/50_mini_projects/tree/main/kinetic_loader)                             | [Demo](https://rdp_kinetic_loader.surge.sh/)               | A triangle loader effect with start and stop options                                                                                                                        |
+| 28  | [Content Placeholder](https://github.com/recepdoganp/50_mini_projects/tree/main/content_placeholder)                   | [Demo](https://rdp_content_placeholder.surge.sh/)          | Content loader with ghost effect as the content loads                                                                                                                       |
+| 29  | [Sticky Navigation](https://github.com/recepdoganp/50_mini_projects/tree/main/sticky_navigation)                       | [Demo](https://rdp_sticky_navigation.surge.sh/)            | Sticky navbar with changing color as page scrolls                                                                                                                           |
+| 30  | [Double Vertical Slider](https://github.com/recepdoganp/50_mini_projects/tree/main/double_vertical_slider)             | [Demo](https://rdp_double_vertical_slider.surge.sh/)       | Two sided vertical slider                                                                                                                                                   |
+| 31  | [Toast Notification](https://github.com/recepdoganp/50_mini_projects/tree/main/toast_notification)                     | [Demo](https://rdp_toast_notification.surge.sh/)           | Button for showing toast notifications for a limited time                                                                                                                   |
+| 32  | [Github Profiles](https://github.com/recepdoganp/50_mini_projects/tree/main/github_profiles)                           | [Demo](https://rdp_github_profiles.surge.sh/)              | Github profile search web app which shows the details about the searched profile                                                                                            |
+| 33  | [Double Click Heart](https://github.com/recepdoganp/50_mini_projects/tree/main/double_click_heart)                     | [Demo](http://rdp_double_click_heart.surge.sh/)            | Image page where doubleclicked the image is liked and random number of hearts flashes and fades                                                                             |
+| 34  | [Auto Text Effect](https://github.com/recepdoganp/50_mini_projects/tree/main/auto_text_effect)                         | [Demo](http://rdp_auto_text_effect.surge.sh/)              | Typewriting effect with adjustable speed property                                                                                                                           |
+| 35  | [Password Generator](https://github.com/recepdoganp/50_mini_projects/tree/main/password_generator)                     | [Demo](https://rdp_password_generator.surge.sh/)           | A password generator web app customizable by length, uppercase, lowercase, numbers and symbols                                                                              |
+| 36  | [Notes App](https://github.com/recepdoganp/50_mini_projects/tree/main/notes_app)                                       | [Demo](https://rdp_notes_app.surge.sh/)                    | Note taking web app where users can create as many notes possible, revise them and revisit the same page even if the session is closed and continue thanks to local storage |
+| 37  | [Animated Countdown](https://github.com/recepdoganp/50_mini_projects/tree/main/animated_countdown)                     | [Demo](https://rdp_animated_countdown.surge.sh/)           | An animated countdown utility with rotating numbers                                                                                                                         |
+| 38  | [Image Carousel](https://github.com/recepdoganp/50_mini_projects/tree/main/image_carousel)                             | [Demo](https://rdp_image_carousel.surge.sh/)               | Changing images carousel with previous and next options                                                                                                                     |
+| 39  | [Hoverboard](https://github.com/recepdoganp/50_mini_projects/tree/main/hoverboard)                                     | [Demo](https://rdp_hoverboard.surge.sh/)                   | Colors dashboard that paints itself when hovered with a random set of colors with colors reset options                                                                      |
+| 40  | [Pokedex](https://github.com/recepdoganp/50_mini_projects/tree/main/pokedex)                                           | [Demo](https://rdp_pokedex.surge.sh/)                      | A simplified pokedex application where 150 different types of pokemon have been listed                                                                                      |
+| 41  | [Mobile Tab Navigation](https://github.com/recepdoganp/50_mini_projects/tree/main/mobile_tab_navigation)               | [Demo](https://rdp_mobile_tab_navigation.surge.sh/)        | A mobile user interface in which background images for each menu changes as different menus are selected                                                                    |
+| 42  | [Password Strength Background](https://github.com/recepdoganp/50_mini_projects/tree/main/password_strength_background) | [Demo](https://rdp_password_strength_background.surge.sh/) | A simple password strength verifier in which as more letters are typed the background image is revealed                                                                     |
+| 43  | [3D Boxes Background](https://github.com/recepdoganp/50_mini_projects/tree/main/3d_boxes_background)                   | [Demo](https://rdp_3d_boxes_background.surge.sh/)          | 3D-like image animation with boxes                                                                                                                                          |
+| 44  | [Verify Account UI](https://github.com/recepdoganp/50_mini_projects/tree/main/verify_account_ui)                       | [Demo](https://rdp_verify_account_ui.surge.sh/)            | An account verification User Interface where user is promted to enter 6-digit code                                                                                          |
+| 45  | [Live User Filter](https://github.com/recepdoganp/50_mini_projects/tree/main/live_user_filter)                         | [Demo](https://rdp_live_user_filter.surge.sh/)             | A user filtering web application that works by searching a keyword on name and location                                                                                     |
+| 46  | [Custom Range Slider](https://github.com/recepdoganp/50_mini_projects/tree/main/custom_range_slider)                   | [Demo](http://rdp_custom_range_slider.surge.sh/)           | An animated range slider where also slide value is shown                                                                                                                    |
+| 47  | [Fatflix Mobile Navigation](https://github.com/recepdoganp/50_mini_projects/tree/main/fatflix_mobile_navigation)       | [Demo](https://rdp_fatflix_mobile_navigation.surge.sh/)    | A mobile navigation component for a so called fatflix streaming page                                                                                                        |
+| 48  | [Quiz App](https://github.com/recepdoganp/50_mini_projects/tree/main/quiz_app)                                         | [Demo](https://rdp_quiz_app.surge.sh/)                     | A quiz app with 4 consecutive questions                                                                                                                                     |
+| 49  | [Drag And Drop](https://github.com/recepdoganp/50_mini_projects/tree/main/drag_and_drop)                               | [Demo](https://rdp_drag_and_drop.surge.sh/)                | A drag and drop web application for images in which the user can drag an image from a certain box and drop it to another                                                    |
 
-https://rdp_split_landing_page.surge.sh/
-
-https://rdp_form_input_wave.surge.sh/
-
-http://rdp_sound_board.surge.sh/
-
-http://rdp_dad_jokes.surge.sh/
-
-http://rdp_event_keycodes.surge.sh/
-
-http://rdp_faq_collapse.surge.sh/
-
-https://rdp_random_choice_picker.surge.sh/
-
-https://rdp_animated_navigation.surge.sh/
-
-https://rdp_incrementing_counter.surge.sh/
-
-https://rdp_drink_water.surge.sh/
-
-https://rdp_movie_app.surge.sh/
-
-https://rdp_background_slider.surge.sh/
-
-https://rdp_theme_clock.surge.sh/
-
-https://rdp_button_ripple_effect.surge.sh/
-
-https://rdp_drawing_app.surge.sh/
-
-https://rdp_kinetic_loader.surge.sh/
-
-https://rdp_content_placeholder.surge.sh/
-
-https://rdp_sticky_navigation.surge.sh/
-
-https://rdp_double_vertical_slider.surge.sh/
-
-https://rdp_toast_notification.surge.sh/
-
-https://rdp_github_profiles.surge.sh/
-
-http://rdp_double_click_heart.surge.sh/
-
-http://rdp_auto_text_effect.surge.sh/
-
-https://rdp_password_generator.surge.sh/
-
-https://rdp_notes_app.surge.sh/
-
-https://rdp_animated_countdown.surge.sh/
-
-https://rdp_image_carousel.surge.sh/
-
-https://rdp_hoverboard.surge.sh/
-
-https://rdp_pokedex.surge.sh/
-
-https://rdp_mobile_tab_navigation.surge.sh/
-
-https://rdp_password_strength_background.surge.sh/
-
-https://rdp_3d_boxes_background.surge.sh/
-
-https://rdp_verify_account_ui.surge.sh/
-
-https://rdp_live_user_filter.surge.sh/
-
-https://rdp_feedback_ui_design.surge.sh/
-
-http://rdp_custom_range_slider.surge.sh/
-
-https://rdp_fatflix_mobile_navigation.surge.sh/
-
-https://rdp_quiz_app.surge.sh/
+| 50 | [Feedback UI Design](https://github.com/recepdoganp/50_mini_projects/tree/main/feedback_ui_design) | [Demo](https://rdp_feedback_ui_design.surge.sh/) | A feedback collection user interface |
